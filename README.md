@@ -1,6 +1,6 @@
-# rent_room
+# 262114.RentARoom
 
-A new Flutter project.
+STIW2044: Mobile Programming - MidTerm
 
 ## Getting Started
 
